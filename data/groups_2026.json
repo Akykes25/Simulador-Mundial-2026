@@ -1,17 +1,22 @@
 {
   "groups": {
-    "A": ["USA", "Iran", "Ghana", "New Zealand"],
-    "B": ["Mexico", "Poland", "South Africa", "Jamaica"],
-    "C": ["Canada", "Romania", "Hungary", "Jordan"],
-    "D": ["Argentina", "Ecuador", "Australia", "Saudi Arabia"],
-    "E": ["France", "Denmark", "Venezuela", "Cameroon"],
-    "F": ["Spain", "Turkey", "Japan", "DR Congo"],
-    "G": ["England", "Switzerland", "South Korea", "Bolivia"],
-    "H": ["Germany", "Colombia", "Serbia", "Costa Rica"],
-    "I": ["Brazil", "Austria", "Nigeria", "Panama"],
-    "J": ["Portugal", "Ukraine", "Senegal", "Honduras"],
-    "K": ["Netherlands", "Croatia", "Morocco", "Qatar"],
-    "L": ["Belgium", "Italy", "Uruguay", "Czech Republic"]
+    "A": ["Mexico", "South Africa", "South Korea", "Czech Republic"],
+    "B": ["Canada", "Bosnia and Herzegovina", "Qatar", "Switzerland"],
+    "C": ["Brazil", "Morocco", "Scotland", "Haiti"],
+    "D": ["USA", "Paraguay", "Australia", "Turkey"],
+    "E": ["Germany", "Ecuador", "Ivory Coast", "Curacao"],
+    "F": ["Netherlands", "Japan", "Sweden", "Tunisia"],
+    "G": ["Belgium", "Iran", "Egypt", "New Zealand"],
+    "H": ["Spain", "Cape Verde", "Saudi Arabia", "Uruguay"],
+    "I": ["France", "Senegal", "Iraq", "Norway"],
+    "J": ["Argentina", "Austria", "Algeria", "Jordan"],
+    "K": ["Portugal", "Colombia", "Uzbekistan", "DR Congo"],
+    "L": ["England", "Croatia", "Panama", "Ghana"]
   },
-  "note": "Groups drawn for WC2026. Hosts USA, Mexico, Canada placed in separate groups A, B, C."
+  "note": "Official WC2026 groups from the Dec 5, 2025 draw in Washington DC, with March 2026 playoff winners: Czechia, Bosnia and Herzegovina, Turkey, Sweden (UEFA) + DR Congo, Iraq (inter-confederation).",
+  "played_results": [
+    {"group": "A", "team_a": "Mexico", "team_b": "South Africa", "goals_a": 2, "goals_b": 0, "date": "2026-06-11", "note": "3 red cards for South Africa - World Cup record"},
+    {"group": "A", "team_a": "South Korea", "team_b": "Czech Republic", "goals_a": 2, "goals_b": 1, "date": "2026-06-11"},
+    {"group": "B", "team_a": "Canada", "team_b": "Bosnia and Herzegovina", "goals_a": 0, "goals_b": 1, "date": "2026-06-12"}
+  ]
 }
