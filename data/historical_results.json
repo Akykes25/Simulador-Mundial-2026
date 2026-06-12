@@ -1,0 +1,29 @@
+{
+  "note": "Hardcoded H2H records for major international rivalries. Format: wins_a, wins_b, draws.",
+  "h2h": {
+    "Argentina_Brazil": {"team_a": "Argentina", "team_b": "Brazil", "wins_a": 42, "wins_b": 43, "draws": 25},
+    "Argentina_England": {"team_a": "Argentina", "team_b": "England", "wins_a": 14, "wins_b": 9, "draws": 11},
+    "Argentina_Germany": {"team_a": "Argentina", "team_b": "Germany", "wins_a": 8, "wins_b": 9, "draws": 7},
+    "Argentina_France": {"team_a": "Argentina", "team_b": "France", "wins_a": 6, "wins_b": 3, "draws": 3},
+    "Brazil_Germany": {"team_a": "Brazil", "team_b": "Germany", "wins_a": 12, "wins_b": 11, "draws": 7},
+    "Brazil_France": {"team_a": "Brazil", "team_b": "France", "wins_a": 8, "wins_b": 6, "draws": 7},
+    "England_Germany": {"team_a": "England", "team_b": "Germany", "wins_a": 12, "wins_b": 15, "draws": 8},
+    "France_Spain": {"team_a": "France", "team_b": "Spain", "wins_a": 16, "wins_b": 16, "draws": 17},
+    "France_Germany": {"team_a": "France", "team_b": "Germany", "wins_a": 17, "wins_b": 21, "draws": 14},
+    "Spain_Germany": {"team_a": "Spain", "team_b": "Germany", "wins_a": 14, "wins_b": 15, "draws": 9},
+    "Netherlands_Germany": {"team_a": "Netherlands", "team_b": "Germany", "wins_a": 10, "wins_b": 13, "draws": 7},
+    "Portugal_Spain": {"team_a": "Portugal", "team_b": "Spain", "wins_a": 19, "wins_b": 36, "draws": 15},
+    "USA_Mexico": {"team_a": "USA", "team_b": "Mexico", "wins_a": 22, "wins_b": 36, "draws": 15},
+    "USA_Iran": {"team_a": "USA", "team_b": "Iran", "wins_a": 1, "wins_b": 1, "draws": 0},
+    "Serbia_Croatia": {"team_a": "Serbia", "team_b": "Croatia", "wins_a": 3, "wins_b": 5, "draws": 4},
+    "Serbia_Albania": {"team_a": "Serbia", "team_b": "Albania", "wins_a": 4, "wins_b": 1, "draws": 2},
+    "South_Korea_Japan": {"team_a": "South Korea", "team_b": "Japan", "wins_a": 42, "wins_b": 13, "draws": 23},
+    "Morocco_Senegal": {"team_a": "Morocco", "team_b": "Senegal", "wins_a": 7, "wins_b": 9, "draws": 8},
+    "Nigeria_Cameroon": {"team_a": "Nigeria", "team_b": "Cameroon", "wins_a": 10, "wins_b": 4, "draws": 9},
+    "Uruguay_Colombia": {"team_a": "Uruguay", "team_b": "Colombia", "wins_a": 13, "wins_b": 14, "draws": 10},
+    "Brazil_Uruguay": {"team_a": "Brazil", "team_b": "Uruguay", "wins_a": 38, "wins_b": 25, "draws": 22},
+    "Italy_Germany": {"team_a": "Italy", "team_b": "Germany", "wins_a": 13, "wins_b": 14, "draws": 12},
+    "Spain_England": {"team_a": "Spain", "team_b": "England", "wins_a": 16, "wins_b": 15, "draws": 17},
+    "Croatia_England": {"team_a": "Croatia", "team_b": "England", "wins_a": 4, "wins_b": 3, "draws": 2}
+  }
+}

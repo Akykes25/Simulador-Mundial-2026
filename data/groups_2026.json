@@ -1,0 +1,17 @@
+{
+  "groups": {
+    "A": ["USA", "Iran", "Ghana", "New Zealand"],
+    "B": ["Mexico", "Poland", "South Africa", "Jamaica"],
+    "C": ["Canada", "Romania", "Hungary", "Jordan"],
+    "D": ["Argentina", "Ecuador", "Australia", "Saudi Arabia"],
+    "E": ["France", "Denmark", "Venezuela", "Cameroon"],
+    "F": ["Spain", "Turkey", "Japan", "DR Congo"],
+    "G": ["England", "Switzerland", "South Korea", "Bolivia"],
+    "H": ["Germany", "Colombia", "Serbia", "Costa Rica"],
+    "I": ["Brazil", "Austria", "Nigeria", "Panama"],
+    "J": ["Portugal", "Ukraine", "Senegal", "Honduras"],
+    "K": ["Netherlands", "Croatia", "Morocco", "Qatar"],
+    "L": ["Belgium", "Italy", "Uruguay", "Czech Republic"]
+  },
+  "note": "Groups drawn for WC2026. Hosts USA, Mexico, Canada placed in separate groups A, B, C."
+}
